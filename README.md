@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=nmkha16&color=green&label=PROFILE+VIEWS)
+
+*Welcome to my profile.*
+
+🌱 I’m currently learning game development.
+
+📫 How to reach me: nmkha0211@gmail.com.
+
+⚡ Always remember public static void main string args.
 <!--
 **nmkha16/nmkha16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
