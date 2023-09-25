@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer
 --------------
 
-Hi, I am a recent graduate from the University of Science with a bachelor of Information Technology. I love video games and always want to know they work behind the screen. Ever since I got into game development, I always have been in love with it. Over these years, I have started to become more versed in developing game for I learn something new everyday. Staying abreast of the latest developments in the dynamic game industry is a priority for me, ensuring I remain a perfect fit for a game developer role. I am proficient in troubleshooting technical issues, identifying root causes, and implementing effective solutions as challenges arise.
+Hi, I am a recent graduate from the University of Science with a bachelor of Information Technology. I love video games and always want to know how they work behind the screen. Ever since I got into game development, I always have been in love with it. Over these years, I have started to become more versed in developing game for I learn something new everyday. Staying abreast of the latest developments in the dynamic game industry is a priority for me, ensuring I remain a perfect fit for a game developer role. I am proficient in troubleshooting technical issues, identifying root causes, and implementing effective solutions as challenges arise.
 
 * 🌍  I'm based in Ho Chi Minh, Vietnam.
 * ✉️  You can contact me at [nmkha0211@gmail.com](mailto:nmkha0211@gmail.com)
