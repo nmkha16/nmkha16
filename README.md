@@ -39,3 +39,10 @@ Hi, I am a recent graduate from the University of Science with a bachelor of Inf
 
 
 ## Check out some of my works below ↓↓↓
+```
+https://nmkha.itch.io
+```
+
+```
+And some repos below
+```
