@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyễn Minh Kha
+Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/nmkha16/nmkha16/assets/91834063/56d25a58-6cd2-4be5-96d6-234a04d8b6f1)
+ My name is Nguyễn Minh Kha
 =======================================================================================================================================
 
 ![](https://komarev.com/ghpvc/?username=nmkha16&color=green&label=PROFILE+VIEWS)
