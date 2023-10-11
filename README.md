@@ -2,8 +2,6 @@ Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/nmkha16/
  My name is Nguyễn Minh Kha
 =======================================================================================================================================
 
-![](https://komarev.com/ghpvc/?username=nmkha16&color=green&label=PROFILE+VIEWS)
-
 Game Developer
 --------------
 
